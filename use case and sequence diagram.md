@@ -32,3 +32,17 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 ![](image/UseCaseExampleAtm.png)    
 
 
+## 📌 Use case diagram symbols and notation:
+
+The notation for a use case diagram is pretty straightforward and doesn't involve as many types of symbols as other UML diagrams. 
+
+|Name |Explanation |symbols
+|--------|---------|-------|
+|Use cases| Horizontally shaped ovals that represent the different uses that a user might have|![](image/UseCase.png)   
+|Actors| Stick figures that represent the people actually employing the use cases|![](image/Actor.png)
+|Associations| A line between actors and use cases. In complex diagrams, it is important to know which actors are associated with which use cases|![](image/Associations.png)
+|System boundary boxes| A box that sets a system scope to use cases. All use cases outside the box would be considered outside the scope of that system. For example, Psycho Killer is outside the scope of occupations in the chainsaw example found below|![](image/system.png)
+|Include| A use case always includes another use case. It's a required sub-process|![](image/include.png)
+|Extend|A use case optionally extends another. It's used when some behavior is conditional|![](image/extend.png)  
+|Generalization|Inheritance between actors or use cases. For example, Admin inherits from User|![](image/Generalization.png)
+
