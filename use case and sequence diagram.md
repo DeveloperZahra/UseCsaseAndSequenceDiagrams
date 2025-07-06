@@ -66,3 +66,16 @@ Sequence diagrams can be useful references for businesses and other organization
 ⭐ See how objects and components interact with each other to complete a process.
 
 ⭐ Plan and understand the detailed functionality of an existing or future scenario.
+
+## 📌 Use cases for sequence diagrams
+
+The following scenarios are ideal for using a sequence diagram:
+
+
+⭐ Usage scenario: A usage scenario is a diagram of how your system could potentially be used. It's a great way to make sure that you have worked through the logic of every usage scenario for the system.
+
+⭐ Method logic: Just as you might use a UML sequence diagram to explore the logic of a use case, you can use it to explore the logic of any function, procedure, or complex process.
+
+⭐ Service logic: If you consider a service to be a high-level method used by different clients, a sequence diagram is an ideal way to map that out.
+
+
