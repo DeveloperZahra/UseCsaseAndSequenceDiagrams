@@ -46,3 +46,10 @@ The notation for a use case diagram is pretty straightforward and doesn't involv
 |Extend|A use case optionally extends another. It's used when some behavior is conditional|![](image/extend.png)  
 |Generalization|Inheritance between actors or use cases. For example, Admin inherits from User|![](image/Generalization.png)
 
+---------------------
+# 🔍 Sequence Diagram
+
+## 📌 What is a sequence diagram in UML?
+
+A sequence diagram is a type of interaction diagram because it describes how—and in what order—a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process. 
+Sequence diagrams are sometimes known as event diagrams or event scenarios.
