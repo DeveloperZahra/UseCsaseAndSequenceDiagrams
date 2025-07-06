@@ -93,5 +93,22 @@ To understand what a sequence diagram is, you should be familiar with its symbol
 |![](image/OptionLoopSymbol.png)|Option loop symbol	|Used to model if/then scenarios, i.e., a circumstance that will only occur under certain conditions.
 |![](image/AlternativeSymbol.png)|Alternative symbol|Symbolizes a choice (that is usually mutually exclusive) between two or more message sequences. To represent alternatives, use the labeled rectangle shape with a dashed line inside.
 
+## 📌 Common message symbols:
+
+Use the following arrows and message symbols to show how
+information is transmitted between objects. These symbols may
+reflect the start and execution of an operation or the sending and reception
+of a signal.
+
+|Symbol |	Name |	Description|
+|-------|--------|-------------|
+|![](image/Synchronous.png)|Synchronous message symbol|Represented by a solid line with a solid arrowhead. This symbol is used when a sender must wait for a response to a message before it continues. The diagram should show both the call and the reply.
+|![](image/Asynchronous.png)| Asynchronous message symbol|  Represented by a solid line with a lined arrowhead. Asynchronous messages don't require a response before the sender continues. Only the call should be included in the diagram.
+|![](image/AsynchronousReturnMessage.png)| Asynchronous return message symbol |Represented by a dashed line with a lined arrowhead
+|![](image/AsynchronousCreateMessage.png)| Asynchronous create message symbol | Represented by a dashed line with a lined arrowhead. This message creates a new object.
+|![](image/ReplyMessage.png) | Reply message symbol | Represented by a dashed line with a lined arrowhead, these messages are replies to calls.
+|![](image/DeleteMessage.png) |Delete message symbol | Represented by a solid line with a solid arrowhead, followed by an X. This message destroys an object.
+
+
  
 
