@@ -53,3 +53,16 @@ The notation for a use case diagram is pretty straightforward and doesn't involv
 
 A sequence diagram is a type of interaction diagram because it describes how—and in what order—a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process. 
 Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+## 📌 Benefits of sequence diagrams:
+
+Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
+
+
+⭐ Represent the details of a UML use case.
+
+⭐ Model the logic of a sophisticated procedure, function, or operation.
+
+⭐ See how objects and components interact with each other to complete a process.
+
+⭐ Plan and understand the detailed functionality of an existing or future scenario.
