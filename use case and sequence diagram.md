@@ -28,3 +28,7 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 ⭐ Specifying the context and requirements of a system
 
 ⭐ Modeling the basic flow of events in a use case
+
+![](image/UseCaseExampleAtm.png)    
+
+
