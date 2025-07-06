@@ -109,6 +109,11 @@ of a signal.
 |![](image/ReplyMessage.png) | Reply message symbol | Represented by a dashed line with a lined arrowhead, these messages are replies to calls.
 |![](image/DeleteMessage.png) |Delete message symbol | Represented by a solid line with a solid arrowhead, followed by an X. This message destroys an object.
 
+## 📌 Sequence diagram examples for ATM systems:
+
+![](image/SequenceDiagramExample.png)
+
+
 
  
 
