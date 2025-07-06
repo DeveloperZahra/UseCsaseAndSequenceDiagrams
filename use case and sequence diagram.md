@@ -67,7 +67,7 @@ Sequence diagrams can be useful references for businesses and other organization
 
 ⭐ Plan and understand the detailed functionality of an existing or future scenario.
 
-## 📌 Use cases for sequence diagrams
+## 📌 Use cases for sequence diagrams:
 
 The following scenarios are ideal for using a sequence diagram:
 
@@ -78,4 +78,20 @@ The following scenarios are ideal for using a sequence diagram:
 
 ⭐ Service logic: If you consider a service to be a high-level method used by different clients, a sequence diagram is an ideal way to map that out.
 
+
+## 📌  Basic symbols and components:
+
+To understand what a sequence diagram is, you should be familiar with its symbols and components. Sequence diagrams are made up of the following icons and elements:
+
+|Symbol|	Name	|Description
+|-------|-----------|-----------|
+|![](image/ObjectSymbol.png) |Object symbol|Represents a class or object in UML. The object symbol demonstrates how an object will behave in the context of the system. Class attributes should not be listed in this shape.
+|![](image/activationBox.png)| Activation box |	Represents the time needed for an object to complete a task. The longer the task will take, the longer the activation box becomes.
+|![](image/ActorSymbol.png)|Actor symbol|Shows entities that interact with or are external to the system.
+|![](image/PackageSymbol.png)|Package symbol |Used in UML 2.0 notation to contain interactive elements of the diagram. Also known as a frame, this rectangular shape has a small inner rectangle for labeling the diagram. 
+|![](image/LifeLine.png)|Lifeline symbol |	Represents the passage of time as it extends downward. This dashed vertical line shows the sequential events that occur to an object during the charted process. Lifelines may begin with a labeled rectangle shape or an actor symbol.
+|![](image/OptionLoopSymbol.png)|Option loop symbol	|Used to model if/then scenarios, i.e., a circumstance that will only occur under certain conditions.
+|![](image/AlternativeSymbol.png)|Alternative symbol|Symbolizes a choice (that is usually mutually exclusive) between two or more message sequences. To represent alternatives, use the labeled rectangle shape with a dashed line inside.
+
+ 
 
